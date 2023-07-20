@@ -1,2 +1,2 @@
-# homework-responsive-week2-lesson2
+# homework-responsive-course
  
